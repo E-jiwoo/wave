@@ -1,4 +1,4 @@
-# ABW
+# 자동 제어 방파제
 ![74shots_so (2)](https://github.com/user-attachments/assets/37ef65e1-63c4-4934-8990-d272e1900931)
 ## Project Overview
 ABW은 파도에 따라 자동적으로 제어되는 방파제입니다.
