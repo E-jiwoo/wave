@@ -1,8 +1,15 @@
-# React + Vite
+# ABW
+![74shots_so (2)](https://github.com/user-attachments/assets/37ef65e1-63c4-4934-8990-d272e1900931)
+## Project Overview
+ABW은 파도에 따라 자동적으로 제어되는 방파제입니다.
+<br/>
+## Pain Point
+동해안과 부산 영도구 하리항에서는 너울성 파도로 인한 사고가 잇따라 발생하며 심각한 피해를 초래하고 있습니다. <br/>
+동해안에서는 갑작스러운 파도로 인해 36명이 파도에 휩쓸리는 참사가 발생했습니다. 다른 곳의 사고로는 1명이 사망하고 1명이 실종되는 안타까운 일도 벌어졌습니다. <br/>
+특히 15m를 넘는 거대한 파도가 방파제를 넘어 항구를 덮치는 상황도 발생하면서 방파제의 설계 한계가 드러났으며, 부산 영도구 하리항에서도 방파제를 넘어선 파도가 항구와 인근 지역을 덮쳐 주민들과 나들이객들에게 큰 피해를 입혔습니다. 이번 사고들은 방파제의 안전성과 구조적 문제를 재검토하고, 해양 재난 예방을 위한 근본적인 대책 마련이 시급함을 보여주고 있습니다.<br/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+이를 해결하기 위해 무작정 높은 방파제를 세우는 것은 해양 경관으로 관광 산업을 하는 도시에게 좋은 방안이 될 수 없습니다.<br/>
 
-Currently, two official plugins are available:
+## Solution
+**파도가 잔잔할 때는 방파제가 내려가** 해양 경관의 방해를 피할 수 있으며, 반대로 **파도가 거셀 때는 방파제가 올라가** 파도로 인한 사고를 방지할 수 있는 자동 제어 방파제, **ABW**를 기획 및 개발하게 되었습니다.<br/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
